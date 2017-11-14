@@ -20,3 +20,4 @@ for i in range(T):
             if kharita[i][j] == 'x':
                 nbr+=1
                 co= [i+1, j+1]
+	print("OK")
